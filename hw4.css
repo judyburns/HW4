@@ -1,0 +1,21 @@
+/************************************************
+ homework 4 styles
+************************************************/
+
+
+* {font-family: Arial, Helvetica, sans-serif;}
+
+em {color: red;}
+
+h1, h3 {font-weight: bold;}
+
+.title {color: #41424A;}
+
+.title.background {color: #AD422D;}
+
+form {color: #A9AF90;}
+
+ul li {list-style: circle;}
+
+
+
